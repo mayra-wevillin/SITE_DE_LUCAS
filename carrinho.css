@@ -25,6 +25,58 @@ header a{
     margin: 50px;
 }
  .flor1{
-    background-color: rgb(145, 137, 137);
-    height: 50PX;
+    background-color: rgb(189, 181, 181);
+    height: 40PX;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: left;
+    font-size: larger;
+    display: flex;
+ }
+
+ .flor2{
+    background-color: rgb(189, 181, 181);
+    height: 40PX;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: left;
+    font-size: larger;
+    display: flex;
+ }
+
+ .flor3{
+    background-color: rgb(189, 181, 181);
+    height: 40PX;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: left;
+    font-size: larger;
+    display: flex;
+ }
+
+ .flor4{
+    background-color: rgb(189, 181, 181);
+    height: 40PX;
+    border-radius: 20px;
+    margin: 10px;
+    text-align: left;
+    font-size: larger;
+    display: flex;
+ }
+ .flor1 p{
+    margin-left: 10px;
+    margin-right: 1350px;
+ }
+ .flor2 p{
+    margin-left: 10px;
+    margin-right: 1350px;
+ }
+ .flor3 p{
+    margin-left: 10px;
+    margin-right: 1350px;
+
+ }
+ .flor4 p{
+    margin-left: 10px;
+    margin-right: 1350px;
  }
