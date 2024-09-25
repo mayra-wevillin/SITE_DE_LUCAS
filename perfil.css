@@ -20,8 +20,19 @@ header a{
     text-decoration: none;
     color: black;
 }
-.img{
-    margin: 56px;
-    width: 7px; 
+.perfil{
+    margin: 107px;
+    width: 7px;
     height: 85px;
+    display: flex;
+   
+    font-size: 40px;
+    align-items: center;
+    
 }
+.perfil ul{
+    list-style:none;
+    
+}
+
+
