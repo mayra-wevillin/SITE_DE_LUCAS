@@ -47,9 +47,31 @@ header a{
     padding-left: 80px;
     display: flex;
 }
-.produto1{
-
+.produto1 p{
+ font-size: 20px;
 }
+.produto2 p{
+    font-size: 20px;
+   }
+.produto3 p{
+    font-size: 20px;
 
-
+   }
+.produto4 p{
+    font-size: 20px;
+   }
+#ok{
+    background-color: rgb(138, 223, 113);
+    color: rgb(0, 97, 18);
+    text-align: center;
+    border-radius: 5px;
+    border: 3px solid;
+}
+#k{
+    text-align: center;
+    background-color: rgb(223, 113, 113);
+    color: rgb(133, 2, 2);
+    border-radius: 5px;
+    border: 3px solid;
+}
 
