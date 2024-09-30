@@ -34,5 +34,22 @@ header a{
     list-style:none;
     
 }
+.historico{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+.fotos img{
+    height: 300px;
+    width: 300px;
+}
+.fotos{
+    padding-left: 80px;
+    display: flex;
+}
+.produto1{
+
+}
+
 
 
